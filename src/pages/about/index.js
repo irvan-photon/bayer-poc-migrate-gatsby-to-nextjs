@@ -7,7 +7,7 @@ export const metadata = {
 export default function Home() {
   return (
     <Layout pageTitle={metadata.title}>
-      <p>Hi there! I'm the proud creator of this site, which I built with Gatsby.</p>
+      <p>Hi there! I&apos;m the proud creator of this site, which I built with Gatsby.</p>
     </Layout>
   )
 }

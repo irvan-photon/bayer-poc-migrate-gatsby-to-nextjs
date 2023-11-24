@@ -10,7 +10,7 @@ export const metadata = {
 export default function Page() {
   return (
     <Layout pageTitle="Home Page">
-      <p>I'm making this by following the Gatsby Tutorial.</p>
+      <p>I&apos;m making this by following the Gatsby Tutorial.</p>
       <div style={{width: '100%', height: 300, position: 'relative'}}>
         <Image
           alt="Clifford, a reddish-brown pitbull, dozing in a bean bag chair"
